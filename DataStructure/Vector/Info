@@ -1,0 +1,7 @@
+# Author:
+#     Daniel Guzman
+# Summary:
+#     A vector is an array-like data-structure containing
+#     a collection of elements each referenced with an
+#     index. Vectors are different from arrays in that
+#     the capacity can increase at run-time
