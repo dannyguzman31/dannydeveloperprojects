@@ -1,0 +1,8 @@
+# Author:
+#     Daniel Guzman
+# Summary:
+#    A queue is called a First-In-First-Out (FIFO) data 
+#    structure. It can equally be called Last-In-Last-Out 
+#   (LILO). A queue is an ordered collection of elements 
+#    where the client can remove elements from only one 
+#    end (the front) and add access to the other (the back)
