@@ -1,0 +1,6 @@
+# Author:
+#     Daniel Guzman
+# Summary:
+#     A deque is a double-ended queue. In other words, it is
+#     a combination of a queue and a stack. The deque we will
+#     create will work exactly like the std::deque class.
